@@ -1,7 +1,5 @@
 import React from 'react'
 import Burger from "../assets/Herosection-burger.jpg";
-// import Burger2 from "../assets/burger-2.jpg";
-
 
 
 const Hero = () => {
